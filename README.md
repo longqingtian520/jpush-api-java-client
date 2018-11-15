@@ -1,4 +1,3 @@
-[![GitHub version](https://badge.fury.io/gh/jpush%2Fjpush-api-java-client.svg)](http://badge.fury.io/gh/jpush%2Fjpush-api-java-client)
 
 # JPush API Java Library
 
